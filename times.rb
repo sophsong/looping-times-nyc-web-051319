@@ -1,6 +1,5 @@
-
-def using_times(7) do |n|
-    puts n
+7. times do 
+  puts ""
 end
 
 
