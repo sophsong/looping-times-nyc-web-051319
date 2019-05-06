@@ -1,5 +1,5 @@
 
-using_times.to 
+7.using_times.to 
 	puts using_times= "Wingardium Leviosa"
 end
 
