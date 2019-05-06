@@ -1,6 +1,5 @@
 
-7. times do 
- 
+using_times.to 
 	puts using_times= "Wingardium Leviosa"
 end
 
