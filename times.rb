@@ -1,7 +1,7 @@
 
 7.times do 
  times= "Wingardium Leviosa"
-  puts imes
+  puts times
 end
 
 
