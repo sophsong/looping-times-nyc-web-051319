@@ -1,7 +1,7 @@
 
 7. times do 
- using_times
-	puts "Wingardium Leviosa"
+ 
+	puts using_times= "Wingardium Leviosa"
 end
 
 
